@@ -2,8 +2,8 @@
   "updatedAt": "2026-11-02",
   "source": "https://www.mercadolivre.com.br/mais-vendidos",
   "categories": [
-    { "id": "eletrodomesticos", "name": "Eletrodomésticos", "icon": "eletrodomesticos" },
     { "id": "celulares", "name": "Celulares e Telefones", "icon": "celulares" },
+    { "id": "eletrodomesticos", "name": "Eletrodomésticos", "icon": "eletrodomesticos" },
     { "id": "informatica", "name": "Informática", "icon": "informatica" },
     { "id": "eletronicos", "name": "Eletrônicos, Áudio e Vídeo", "icon": "eletronicos" },
     { "id": "ferramentas", "name": "Ferramentas", "icon": "ferramentas" },
